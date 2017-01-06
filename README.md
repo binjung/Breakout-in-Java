@@ -1,4 +1,4 @@
-# Java-Game
+# Game in Java: Breakout
 
 Following repository contains Java Projects (Games) from my Freshman year at university.
 
