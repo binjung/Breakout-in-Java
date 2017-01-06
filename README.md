@@ -1,3 +1,3 @@
 # Java-Game
 
-Following repository contains Java Projects from my Freshman year unviersity.
+Following repository contains Java Projects (Games) from my Freshman year at university.
